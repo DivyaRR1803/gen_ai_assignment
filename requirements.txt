@@ -1,0 +1,11 @@
+PyPDF2
+pandas
+python-docx
+sentence-transformers
+tiktoken
+pdfplumber
+numpy
+scikit-learn
+chromadb
+fastapi
+uvicorn
